@@ -1,0 +1,7 @@
+# Игнорировать все файлы
+*
+
+# Наблюдаемые файлы
+!.gitignore
+!README.md
+!authorized_keys
